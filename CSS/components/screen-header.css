@@ -4,7 +4,8 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 51.8px 25px 25px 25px;
+  padding: 51.8px var(--horizontal-space) var(--horizontal-space)
+    var(--horizontal-space);
   box-sizing: border-box;
 }
 
